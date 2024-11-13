@@ -12,4 +12,4 @@ euclid algoritması ile ebob bulumu
 9. Bitir.
 
 
-Bu işlemlerin bir tablo halinde gösterimine ulaşmak için
+Bu işlemlerin bir tablo halinde gösterimine ulaşmak için ''euclid algorithm ifl.jpg'' ye tıklayınız.
