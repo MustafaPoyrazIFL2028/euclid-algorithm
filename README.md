@@ -10,3 +10,6 @@ euclid algoritması ile ebob bulumu
 7. İkinci sayının değerini birinci sayıya ata, kalanın değerini ikinci sayıya ata ve 5. adıma git.
 8. İkinci sayının değerini ekrana yaz.
 9. Bitir.
+
+
+Bu işlemlerin bir tablo halinde gösterimine ulaşmak için
